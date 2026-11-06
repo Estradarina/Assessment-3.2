@@ -1,5 +1,3 @@
-# Assessment 3.2: Linear Data Structure - LINKED LIST
-# Each node stores a letter and a reference to the next node.
 
 class Node:
     def __init__(self, data):

@@ -1,5 +1,3 @@
-# Assessment 3.2: Linear Data Structure - QUEUE
-# A queue follows FIFO (First In, First Out).
 
 from collections import deque
 

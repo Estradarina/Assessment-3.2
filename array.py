@@ -1,8 +1,4 @@
-# Assessment 3.2: Linear Data Structure - ARRAY
-# The program starts with the letters of the surname ESTRADA.
-# An array is represented by a Python list.
-
-letters = ["E", "S", "T", "R", "A", "D", "A"]
+letters: list[str] = ["E", "S", "T", "R", "A", "D", "A"]
 
 def display():
     print("\nCurrent array:", letters if letters else "[]")
